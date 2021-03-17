@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="stylesheet" type="text/css" href="app.css">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
     <meta charset="UTF-8">
@@ -22,6 +23,10 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/searchemp">Search Employee</a>
+        </li>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/aboutus">About Us</a>
         </li>
       </ul>
     </div>
