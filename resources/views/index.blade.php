@@ -60,7 +60,7 @@
 </tr>
 <tr>
     <td>Pincode</td>
-    <td><input type="text" class="from-control"></td>
+    <td><input type="text" class="form-control"></td>
 </tr>
 <tr>
     <td>Phone-No</td>
